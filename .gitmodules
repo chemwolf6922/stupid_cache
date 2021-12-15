@@ -1,0 +1,3 @@
+[submodule "map-xxhash"]
+	path = map-xxhash
+	url = https://github.com/chemwolf6922/map-xxhash.git
